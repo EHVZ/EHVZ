@@ -22,7 +22,7 @@ Soy un **desarrollador backend** especializado en **NestJS**, enfocado en constr
 - 🛠️ Enfocado en desarrollo backend con NestJS y arquitectura limpia.
 - 🧪 Me gusta escribir pruebas automatizadas con Jest y mantener un código mantenible.
 - 🌱 Actualmente aprendiendo: **Clean Architecture**, **CI/CD** y **microservicios**.
-- 📬 Contacto: [LinkedIn](https://www.linkedin.com/in/eliel-hernandez-dev) | eliedavidhernandez12@gmail.com
+- 📬 Contacto: [LinkedIn](www.linkedin.com/in/eliel-david-hernandéz-vasquéz-b265642a3) | eliedavidhernandez12@gmail.com
 
 ---
 
